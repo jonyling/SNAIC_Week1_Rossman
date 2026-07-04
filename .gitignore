@@ -1,0 +1,17 @@
+## OS / Windows metadata
+*Zone.Identifier
+.DS_Store
+Thumbs.db
+
+## Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+## Environments
+.venv/
+venv/
+env/
+
+## Raw competition data (download from Kaggle instead, see README)
+data/
